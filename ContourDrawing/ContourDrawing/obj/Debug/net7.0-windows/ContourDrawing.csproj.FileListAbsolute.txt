@@ -1,0 +1,17 @@
+C:\Users\Mark\source\repos\ContourDrawing\ContourDrawing\obj\Debug\net7.0-windows\ContourDrawing.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\ContourDrawing\ContourDrawing\obj\Debug\net7.0-windows\ContourDrawing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\ContourDrawing\ContourDrawing\obj\Debug\net7.0-windows\ContourDrawing.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\ContourDrawing\ContourDrawing\obj\Debug\net7.0-windows\ContourDrawing.AssemblyInfo.cs
+C:\Users\Mark\source\repos\ContourDrawing\ContourDrawing\obj\Debug\net7.0-windows\ContourDrawing.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\ContourDrawing\ContourDrawing\bin\Debug\net7.0-windows\ContourDrawing.exe
+C:\Users\Mark\source\repos\ContourDrawing\ContourDrawing\bin\Debug\net7.0-windows\ContourDrawing.deps.json
+C:\Users\Mark\source\repos\ContourDrawing\ContourDrawing\bin\Debug\net7.0-windows\ContourDrawing.runtimeconfig.json
+C:\Users\Mark\source\repos\ContourDrawing\ContourDrawing\bin\Debug\net7.0-windows\ContourDrawing.dll
+C:\Users\Mark\source\repos\ContourDrawing\ContourDrawing\bin\Debug\net7.0-windows\ContourDrawing.pdb
+C:\Users\Mark\source\repos\ContourDrawing\ContourDrawing\obj\Debug\net7.0-windows\ContourDrawing.dll
+C:\Users\Mark\source\repos\ContourDrawing\ContourDrawing\obj\Debug\net7.0-windows\refint\ContourDrawing.dll
+C:\Users\Mark\source\repos\ContourDrawing\ContourDrawing\obj\Debug\net7.0-windows\ContourDrawing.pdb
+C:\Users\Mark\source\repos\ContourDrawing\ContourDrawing\obj\Debug\net7.0-windows\ContourDrawing.genruntimeconfig.cache
+C:\Users\Mark\source\repos\ContourDrawing\ContourDrawing\obj\Debug\net7.0-windows\ref\ContourDrawing.dll
+C:\Users\Mark\source\repos\ContourDrawing\ContourDrawing\obj\Debug\net7.0-windows\ContourDrawing.Form1.resources
+C:\Users\Mark\source\repos\ContourDrawing\ContourDrawing\obj\Debug\net7.0-windows\ContourDrawing.csproj.GenerateResource.cache
